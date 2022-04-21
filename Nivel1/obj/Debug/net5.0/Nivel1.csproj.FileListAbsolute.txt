@@ -1,0 +1,16 @@
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\bin\Debug\net5.0\Nivel1.exe
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\bin\Debug\net5.0\Nivel1.deps.json
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\bin\Debug\net5.0\Nivel1.runtimeconfig.json
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\bin\Debug\net5.0\Nivel1.runtimeconfig.dev.json
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\bin\Debug\net5.0\Nivel1.dll
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\bin\Debug\net5.0\ref\Nivel1.dll
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\bin\Debug\net5.0\Nivel1.pdb
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\obj\Debug\net5.0\Nivel1.csproj.AssemblyReference.cache
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\obj\Debug\net5.0\Nivel1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\obj\Debug\net5.0\Nivel1.AssemblyInfoInputs.cache
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\obj\Debug\net5.0\Nivel1.AssemblyInfo.cs
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\obj\Debug\net5.0\Nivel1.csproj.CoreCompileInputs.cache
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\obj\Debug\net5.0\Nivel1.dll
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\obj\Debug\net5.0\ref\Nivel1.dll
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\obj\Debug\net5.0\Nivel1.pdb
+C:\Users\nei_s\source\repos\Nivel1\Nivel1\obj\Debug\net5.0\Nivel1.genruntimeconfig.cache
